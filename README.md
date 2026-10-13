@@ -1,0 +1,2 @@
+# trendora
+e-commerce platform
